@@ -8,7 +8,7 @@
  
 <img height=500 src=https://github.com/MarcoPaoletta/MoreDictsInOne/blob/master/example.png> 
 
-
+---
 # Descargar Godot Engine e importar el proyecto
 ---
 
