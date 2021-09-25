@@ -4,9 +4,9 @@
 * Este tema ya lo desarrolle en [Dictionaries-Save-Load](https://github.com/MarcoPaoletta/Dictionaries-Save-Load)
 * En este repositorio cree un sistema de guardado y cargado local que usando una sola variable, un diccionario, podiamos almacenar mucha informacion
 * Pero no sabia como hacer para que en un diccionario pueda almacenar otros hasta que lo pude hacer y por ende lo estoy subiendo aca
-* Como una ayuda, hice una pequeña imagen [example.png](github.com/MarcoPaoletta/MoreDictsInOne/blob/master/example.png) la cual indica donde inicia y termina cada diccionario, entre otras cosas:
+* Como una ayuda, hice una pequeña imagen [example.png](https://github.com/MarcoPaoletta/MoreDictsInOne/blob/master/example.png) la cual indica donde inicia y termina cada diccionario, entre otras cosas:
  
-<img height=500 src="https://github.com/MarcoPaoletta/MoreDictsInOne/blob/master/example.png"> 
+<img height=500 src=https://github.com/MarcoPaoletta/MoreDictsInOne/blob/master/example.png> 
 
 
 # Descargar Godot Engine e importar el proyecto
